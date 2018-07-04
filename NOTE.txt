@@ -1,0 +1,3 @@
+kindly change this line according to the respective location:
+(Fillform.php line 36)
+header("location:http://localhost/AptechProj/displayform2.php");

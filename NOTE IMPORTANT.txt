@@ -1,0 +1,15 @@
+Instruction: for Client To USE THE FORM
+
+
+1)Create a database and import database.sql
+
+
+
+
+2).  
+$DB_NAME="testdb" 
+$DB_PASSWORD=""
+change this value in connect.php
+add the name and password of database that is created. 
+
+3) add the whole form folder to the htdocs (as in case of using xampp server)
